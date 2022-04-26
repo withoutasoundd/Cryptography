@@ -1,5 +1,3 @@
 # Cryptography
 
-Simple python program that has some cryptography algorithms;
-
-Enables you to encode/decode using few algorithms.
+CMD based tool that allows you to encode/decode information using 6 powerful cryptography algorithms.
